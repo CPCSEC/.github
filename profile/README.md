@@ -1,4 +1,5 @@
-## Test Readme for CPCSEC
+# CPCSEC - Just another CTF Team
+[CTFTIME](https://ctftime.org/team/274692)
 
 <!--
 
